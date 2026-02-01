@@ -24,7 +24,7 @@ The app will be available at `http://localhost:3000`
 ## Features
 
 ### Home Page
-- Financial overview with income, expe    and balance
+- Financial overview with income, expenses, and balance
 - Account balances display
 - Recent transactions list
 - Floating "Add" button for quick transaction creation
